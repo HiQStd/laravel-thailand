@@ -1,0 +1,13 @@
+{
+    "name": "baraear/laravel-thai-address",
+    "description": "The package may help Laravel developer store user address by easily way",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baraear",
+            "email": "baraear@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
