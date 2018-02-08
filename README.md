@@ -1,18 +1,18 @@
 ### แพคเกจตำบล, อำเภอ, จังหวัด และรหัสไปรษณีย์สำหรับ Laravel Framework
 ---
-[![Latest Stable Version](https://poser.pugx.org/baraear/laravel-thai-address/v/stable)](https://packagist.org/packages/baraear/laravel-thai-address)
-[![Build Status](https://travis-ci.org/baraear/laravel-thai-address.svg?branch=analysis-Xk61lR)](https://travis-ci.org/baraear/laravel-thai-address)
-[![StyleCI](https://styleci.io/repos/116772888/shield?style=flat&branch=master)](https://styleci.io/repos/116772888)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/baraear/laravel-thai-address/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/baraear/laravel-thai-address/?branch=master)
-[![Total Downloads](https://poser.pugx.org/baraear/laravel-thai-address/downloads)](https://packagist.org/packages/baraear/laravel-thai-address)
-[![GitHub license](https://img.shields.io/github/license/baraear/laravel-thai-address.svg)](https://github.com/baraear/laravel-thai-address/blob/master/LICENSE)
+[![Latest Stable Version](https://poser.pugx.org/baraear/laravel-thailand/v/stable)](https://packagist.org/packages/baraear/laravel-thailand)
+[![Build Status](https://travis-ci.org/baraear/laravel-thailand.svg?branch=master)](https://travis-ci.org/baraear/laravel-thailand)
+[![StyleCI](https://styleci.io/repos/120746847/shield?style=flat&branch=master)](https://styleci.io/repos/120746847)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/baraear/laravel-thailand/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/baraear/laravel-thailand/?branch=master)
+[![Total Downloads](https://poser.pugx.org/baraear/laravel-thailand/downloads)](https://packagist.org/packages/baraear/laravel-thailand)
+[![GitHub license](https://img.shields.io/github/license/baraear/laravel-thailand.svg)](https://github.com/baraear/laravel-thailand/blob/master/LICENSE)
 
 แพคเกจนี้จะช่วยให้นักพัฒนาที่ใช้ Laravel Framework ในการพัฒนาสามารถจัดเก็บข้อมูลที่อยู่ได้ง่ายขึ้น
 
 ### การติดตั้ง
-1. ติดตั้งแพคเกจ `baraear/laravel-thai-address` ผ่านทาง Composer
+1. ติดตั้งแพคเกจ `baraear/laravel-thailand` ผ่านทาง Composer
     ```sh
-    composer require baraear/laravel-thai-address
+    composer require baraear/laravel-thailand
     ```
 2. ทำการเพิ่ม Service Provider ของแพคเกจใน `config/app.php`
     ```php
