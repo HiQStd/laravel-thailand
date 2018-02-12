@@ -2,7 +2,6 @@
 
 namespace Baraear\ThaiAddress\Controllers;
 
-use App\Http\Controllers\Controller;
 use Baraear\ThaiAddress\Models\District;
 use Baraear\ThaiAddress\Models\Province;
 use Baraear\ThaiAddress\Models\PostalCode;
@@ -12,6 +11,7 @@ use Baraear\ThaiAddress\Resources\ProvinceResource;
 use Baraear\ThaiAddress\Resources\PostalCodeResource;
 use Baraear\ThaiAddress\Resources\SubDistrictResource;
 use Baraear\ThaiAddress\Resources\ThaiAddressResource;
+use Illuminate\Routing\Controller;
 
 class ThaiAddressController extends Controller
 {
